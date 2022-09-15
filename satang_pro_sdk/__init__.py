@@ -1,4 +1,8 @@
 # -*- coding: utf-8 -*-
+
+__version__ = '1.0.5'
+
+
 import requests
 import time
 import hashlib

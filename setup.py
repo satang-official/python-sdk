@@ -12,14 +12,14 @@ DESCRIPTION = '\n\n'.join(LOAD_TEXT(_) for _ in [
 setup(
   name = 'satang_pro_sdk',      
   packages = ['satang_pro_sdk'], 
-  version = '1.0.4', 
+  version = '1.0.5', 
   license='MIT', 
   description = 'Python SDK for Satangpro Open API',
   long_description=DESCRIPTION,
   author = 'Satangpro',                 
   author_email = 'platforms@satangcorp.com',    
   url = 'https://github.com/satang-official/python-sdk',
-  download_url = 'https://github.com/satang-official/python-sdk/archive/refs/tags/V1.0.4.tar.gz',  
+  download_url = 'https://github.com/satang-official/python-sdk/archive/refs/tags/V1.0.5.tar.gz',  
   keywords = ['Satangpro API', 'Satangpro', 'satangpro','Satangpro python'],
   classifiers=[
     'Development Status :: 4 - Beta',     

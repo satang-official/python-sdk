@@ -5,8 +5,8 @@ library that provide user to call Satang Pro API easier
 import hashlib
 import hmac
 import json
-from get_unix_time import nonce
-from all_request import get_request, post_requst, delete_request
+from .get_unix_time import nonce
+from .all_request import get_request, post_requst, delete_request
 
 class Satangpro:
     '''
