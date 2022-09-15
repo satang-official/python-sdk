@@ -12,7 +12,7 @@ DESCRIPTION = '\n\n'.join(LOAD_TEXT(_) for _ in [
 setup(
   name = 'satang_pro_sdk',      
   packages = ['satang_pro_sdk'], 
-  version = '1.0', 
+  version = '1.0.2', 
   license='MIT', 
   description = 'Python SDK for Satangpro Open API',
   long_description=DESCRIPTION,
