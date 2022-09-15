@@ -62,7 +62,7 @@ pip install satang-pro-sdk
 ### Initial Step
 
 ```
-from satangpro import Satangpro
+from satang_pro_sdk import Satangpro
 satang_api_key = 'live_12345.....'
 satang_api_secret = '7oDsUT.....'
 sp = Satangpro(satang_api_key,satang_api_secret)
